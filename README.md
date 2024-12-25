@@ -1,9 +1,8 @@
+![Banner](https://raw.githubusercontent.com/afra16181falakh/afra16181falakh/main/banner.png)
 ## Hi there 👋
 
 
 **afra16181falakh/afra16181falakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-	### Hi there 👋, I'm Afra!  
 
 - 🔭 I’m currently working on **exploring innovative ideas for automating everyday tasks and brainstorming creative solutions to real-world problems.**  
 - 🌱 I’m currently learning **TensorFlow, machine learning concepts, and diving deeper into full-stack development technologies.**  
