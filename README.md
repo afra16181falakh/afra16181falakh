@@ -2,8 +2,6 @@
 ## Hi there 👋
 
 
-**afra16181falakh/afra16181falakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on **exploring innovative ideas for automating everyday tasks and brainstorming creative solutions to real-world problems.**  
 - 🌱 I’m currently learning **TensorFlow, machine learning concepts, and diving deeper into full-stack development technologies.**  
 - 👯 I’m looking to collaborate on **AI/ML projects, content writing initiatives, or web applications that make a meaningful impact.**  
