@@ -16,7 +16,7 @@
 
 **Programming Languages**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B-logo.svg" width="30" height="30"> C++ 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B-logo.svg"> C++ 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Java_programming_language_logo.svg" width="30" height="30"> Java 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30"> Python 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Operating_system_icon.png" width="30" height="30"> Operating Systems 
