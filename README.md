@@ -14,7 +14,7 @@
 ---
 
 ### 🌟 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/afra-falakh-1a997328b/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afra-falakh-1a997328b/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/afra16181falakh)  
 *Check out my portfolio:* [afrafalakh.journoportfolio.com](https://afrafalakh.journoportfolio.com/)
 
