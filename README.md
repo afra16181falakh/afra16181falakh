@@ -12,37 +12,32 @@
 - ⚡ Fun fact: **I'm a part-time engineer and a full-time reader, coding by day and exploring fictional worlds at night!**  
 
 ---
+
 ## Technical Skills
 
-**Programming Languages**
+### Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/OS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Structures and Algorithms](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=algolia&logoColor=white)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B-logo.svg"> C++ 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Java_programming_language_logo.svg" width="30" height="30"> Java 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30"> Python 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Operating_system_icon.png" width="30" height="30"> Operating Systems 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Database_icon.svg" width="30" height="30"> Database Management Systems 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Algorithm_icon.svg" width="30" height="30"> Data Structures & Algorithms
+### Web Technology and Database
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Web Technology & Database**
+### Frameworks and Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="30" height="30"> HTML 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo.svg" width="30" height="30"> JavaScript
-
-**Frameworks & Libraries**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/TensorFlow_logo.svg" width="30" height="30"> TensorFlow 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/PyTorch_logo.svg" width="30" height="30"> PyTorch 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Spring_Framework_logo.svg" width="30" height="30"> Spring 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30"> Django 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Spring_Framework_logo.svg" width="30" height="30"> Loki 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Spring_Framework_logo.svg" width="30" height="30"> Poko 
-
-**Developer Tools**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Visual_Studio_Code_1.35_icon.svg" width="30" height="30"> VS Code 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Android_Studio_icon.svg" width="30" height="30"> Android Studio 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Git_logo.svg" width="30" height="30"> Git
-
+### Developer Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ### 🌟 Let's Connect!  
