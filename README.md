@@ -40,12 +40,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-### 🌟 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afra-falakh-1a997328b/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/afra16181falakh)  
-*Check out my portfolio:* [afrafalakh.journoportfolio.com](https://afrafalakh.journoportfolio.com/)
+## Connect with me
 
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afra16181falakh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afra-falakh-1a997328b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=journoportfolio&logoColor=white)](https://afrafalakh.journoportfolio.com/)
 
 
 
