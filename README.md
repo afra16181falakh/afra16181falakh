@@ -2,14 +2,14 @@
 ## HI THERE 👋
 
 
-- 🔭 I’m currently working on **exploring innovative ideas for automating everyday tasks and brainstorming creative solutions to real-world problems.**  
-- 🌱 I’m currently learning **TensorFlow, machine learning concepts, and diving deeper into full-stack development technologies.**  
-- 👯 I’m looking to collaborate on **AI/ML projects, content writing initiatives, or web applications that make a meaningful impact.**  
-- 🤔 I’m looking for help with **gaining practical experience in cloud-based technologies and improving my cybersecurity knowledge.**  
-- 💬 Ask me about **artificial intelligence, machine learning, web development, or creative writing.**  
-- 📫 How to reach me: **afrafalakh16@gmail.com.**  
-- 😄 Pronouns: **She/Her.**  
-- ⚡ Fun fact: **I'm a part-time engineer and a full-time reader, coding by day and exploring fictional worlds at night!**  
+- I’m currently working on **exploring innovative ideas for automating everyday tasks and brainstorming creative solutions to real-world problems.**  
+- I’m currently learning **TensorFlow, machine learning concepts, and diving deeper into full-stack development technologies.**  
+- I’m looking to collaborate on **AI/ML projects, content writing initiatives, or web applications that make a meaningful impact.**  
+- I’m looking for help with **gaining practical experience in cloud-based technologies and improving my cybersecurity knowledge.**  
+- Ask me about **artificial intelligence, machine learning, web development, or creative writing.**  
+- How to reach me: **afrafalakh16@gmail.com.**  
+- Pronouns: **She/Her.**  
+- Fun fact: **I'm a part-time engineer and a full-time reader, coding by day and exploring fictional worlds at night!**  
 
 ---
 
