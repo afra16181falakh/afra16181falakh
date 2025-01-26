@@ -6,6 +6,7 @@ I am passionate about exploring innovative solutions to automate everyday tasks 
 I am actively seeking collaborations on AI/ML projects, content writing initiatives, and web applications that create a meaningful impact. Additionally, I am focused on gaining practical experience in cloud-based technologies and expanding my cybersecurity knowledge.
 
 Feel free to ask about artificial intelligence, machine learning, web development, or creative writing!
+
 Fun Fact: A part-time engineer and a full-time reader, coding by day and exploring fictional worlds at night!
 
 ---
