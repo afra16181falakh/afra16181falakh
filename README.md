@@ -7,7 +7,7 @@ I am actively seeking collaborations on AI/ML projects, content writing initiati
 
 ## Feel free to ask about artificial intelligence, machine learning, web development, or creative writing!
 
-Fun Fact: A part-time engineer and a full-time reader, coding by day and exploring fictional worlds at night!
+
 
 ---
 
