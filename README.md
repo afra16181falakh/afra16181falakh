@@ -3,7 +3,7 @@
 
 AI, code, and a touch of creativity—that’s my jam! I’m all about automating the boring stuff and solving real-world problems with smart tech. Right now, I’m on a deep dive into TensorFlow and machine learning while leveling up my full-stack wizardry.
 
-Looking for a partner-in-crime for AI/ML experiments, web app adventures, or content writing quests? Let’s team up and build something awesome! I’m also sneaking into the world of cloud tech and cybersecurity—because, hey, every hero needs a solid defense.
+Looking for a partner-in-crime for AI/ML experiments, web app adventures, or content writing quests? Let’s team up and build something awesome! I’m also sneaking into the world of cloud tech and cybersecurity—because, heyyyyyyyyyy , every hero needs a solid defense.
 
 
 
