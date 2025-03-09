@@ -8,8 +8,6 @@ Looking for a partner-in-crime for AI/ML experiments, web app adventures, or con
 ## Whether it’s training an AI, designing a website, or crafting a story, I’m your go-to nerd. Let’s connect and make tech magic happen ! 
 
 
-
-
 ---
 
 ## TECHNICAL SKILLS
