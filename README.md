@@ -5,7 +5,6 @@ AI, code, and a touch of creativity—that’s my jam! I’m all about automatin
 Looking for a partner-in-crime for AI/ML experiments, web app adventures, or content writing quests? Let’s team up and build something awesome! I’m also sneaking into the world of cloud tech and cybersecurity—because, heyyyyyyyyyy , every hero needs a solid defense.
 
 
-
 ## Whether it’s training an AI, designing a website, or crafting a story, I’m your go-to nerd. Let’s connect and make tech magic happen ! 
 
 
