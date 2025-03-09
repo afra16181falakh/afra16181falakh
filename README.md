@@ -11,6 +11,7 @@ Looking for a partner-in-crime for AI/ML experiments, web app adventures, or con
 
 ## TECHNICAL SKILLS
 ## PROGRAMMING LANGUAGES
+
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
