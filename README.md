@@ -50,7 +50,6 @@ Let’s connect and make tech magic happen!
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat-square&logo=huggingface&logoColor=black) 
-![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-34A853?style=flat-square&logo=google&logoColor=white) 
 ![Blackbox AI](https://img.shields.io/badge/Blackbox%20AI-000000?style=flat-square&logoColor=white) 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=github&logoColor=white) 
 ![Cursor](https://img.shields.io/badge/Cursor%20AI-000000?style=flat-square&logo=visualstudiocode&logoColor=white) 
