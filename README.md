@@ -45,16 +45,16 @@ Let’s connect and make tech magic happen!
 ---
 
 #### 🧠 AI TOOLS  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black) 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black) 
-![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-34A853?style=flat&logo=google&logoColor=white) 
-![Blackbox AI](https://img.shields.io/badge/Blackbox%20AI-000000?style=flat&logoColor=white) 
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=github&logoColor=white) 
-![Cursor](https://img.shields.io/badge/Cursor%20AI-000000?style=flat&logo=visualstudiocode&logoColor=white) 
-![Zencoder](https://img.shields.io/badge/Zencoder-0F9D58?style=flat&logo=bitmovin&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black) 
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) 
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) 
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat-square&logo=huggingface&logoColor=black) 
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-34A853?style=flat-square&logo=google&logoColor=white) 
+![Blackbox AI](https://img.shields.io/badge/Blackbox%20AI-000000?style=flat-square&logoColor=white) 
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=github&logoColor=white) 
+![Cursor](https://img.shields.io/badge/Cursor%20AI-000000?style=flat-square&logo=visualstudiocode&logoColor=white) 
+![Zencoder](https://img.shields.io/badge/Zencoder-0F9D58?style=flat-square&logo=bitmovin&logoColor=white)
 
 ### 🤝 CONNECT WITH ME  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://afrafalakh.journoportfolio.com)
