@@ -44,6 +44,20 @@ Let’s connect and make tech magic happen!
 
 ---
 
+#### 🧠 AI TOOLS  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![Blackbox AI](https://img.shields.io/badge/Blackbox%20AI-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjxjaXJjbGUgY3g9JzEwJyBjeT0nMTAnIHI9JzEwJyBmaWxsPSdibGFjaycvPjwvc3ZnPg==)
+![Notion AI](https://img.shields.io/badge/Notion%20AI-000000?style=flat&logo=notion&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
+![Bard](https://img.shields.io/badge/Bard-4285F4?style=flat&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-5A4FCF?style=flat&logo=Anthropic&logoColor=white)
+![Perplexity AI](https://img.shields.io/badge/Perplexity-1F1F1F?style=flat&logo=perplexity&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=github&logoColor=white)
+
 ### 🤝 CONNECT WITH ME  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://afrafalakh.journoportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afra-falakh-1a997328b/)
